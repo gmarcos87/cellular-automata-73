@@ -1,4 +1,4 @@
-![alt text](http://pixxel.com.ar/img/cell.png "Cellular Automata")
+![alt text](http://pixxel.com.ar/img/cell.png?logo "Cellular Automata")
 
 # Cellular Automata nº 73
 [Demo online](https://gmarcos87.github.io/cellular-automata-73/)
